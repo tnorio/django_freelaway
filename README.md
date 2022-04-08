@@ -9,3 +9,10 @@ O framework django fica encarregado de realizar todas as operações de back-end
 - lidar com eventuais erros do sistema / entradas inválidas do usuário
 
 O foco do projeto consiste no django, portanto a parte gráfica do site, front-end, foi realizada com códigos simples do bootstrap
+O resultado final do site ficou dessa maneira
+
+<img title="login" src="https://github.com/tnorio/django_freelaway/blob/master/media/aparencia%20do%20site/login.png?raw=true" style="width:300px;"/>
+<img title="jobs_aberto" src="https://raw.githubusercontent.com/tnorio/django_freelaway/master/media/aparencia%20do%20site/template_vagas.png" style="width:300px;"/>
+
+<img title="jobs_card" src="https://raw.githubusercontent.com/tnorio/django_freelaway/master/media/aparencia%20do%20site/template_vagas_card.png" style="width:300px;"/>
+<img title="perfil" src="https://raw.githubusercontent.com/tnorio/django_freelaway/master/media/aparencia%20do%20site/template_perfil.png" alt="perfil" style="width:300px;"/>
